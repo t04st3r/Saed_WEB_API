@@ -17,3 +17,7 @@ https://www.dropbox.com/s/8ukkxk8pt9jqf97/esercitazione_XML_Schema_Slide.pdf?dl=
 Esercitazione XML Schema / XSD
 
 https://www.dropbox.com/s/mdg06nrnhnmgbew/esercitazione_XML_Schema.pdf?dl=0
+
+Soluzioni esercitazioni
+
+https://www.dropbox.com/s/d4gf1mqwseee3mg/esercitazione_XML_Schema_Soluzioni.txt?dl=0
