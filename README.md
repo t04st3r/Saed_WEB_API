@@ -25,3 +25,7 @@ https://www.dropbox.com/s/d4gf1mqwseee3mg/esercitazione_XML_Schema_Soluzioni.txt
 Installazione ambiente LAMP per Drupal
 
 https://www.dropbox.com/s/suaejmfm9rk75db/Installazione_ambiente_drupal.txt?dl=0
+
+Esercitazione Drupal 7
+
+https://www.dropbox.com/s/5jhe7yxwtcc5y0o/esercitazione%20Drupal.pdf?dl=0
