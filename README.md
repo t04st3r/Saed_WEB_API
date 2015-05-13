@@ -21,3 +21,7 @@ https://www.dropbox.com/s/mdg06nrnhnmgbew/esercitazione_XML_Schema.pdf?dl=0
 Soluzioni esercitazioni
 
 https://www.dropbox.com/s/d4gf1mqwseee3mg/esercitazione_XML_Schema_Soluzioni.txt?dl=0
+
+Installazione ambiente LAMP per Drupal
+
+https://www.dropbox.com/s/suaejmfm9rk75db/Installazione_ambiente_drupal.txt?dl=0
